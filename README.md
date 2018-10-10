@@ -10,4 +10,4 @@ Contents:
 6. [Scatter](https://github.com/Saurabh2798/Intro-to-Plotly/blob/master/Scatter.py)
 7. [Ohlc](https://github.com/Saurabh2798/Intro-to-Plotly/blob/master/Ohlc.py)
 8. [Time_Series](https://github.com/Saurabh2798/Intro-to-Plotly/blob/master/Time_Series.py)
-9. [All_in_one](https://github.com/Saurabh2798/Intro-to-Plotly/blob/master/All_in_one.py)
+9. [All_in_one](https://github.com/Saurabh2798/Intro-to-Plotly/blob/master/All_in_one.ipynb)
